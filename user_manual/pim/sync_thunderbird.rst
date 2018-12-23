@@ -62,4 +62,4 @@ https://cloud.nextcloud.com/remote.php/dav/calendars/daniel/personal/
 
 .. image:: ../images/CalDAV_calendar.png
 
-The rest of the details of dealing with Thunderbird Calendar are left to the reader... 
+There's a bug between NextCloud 13 (or higher) and Thunderbird 60 (or higher). After flipping the preference network.cookie.same-site.enabled to false in Thunderbird, the rest of the details of dealing with Thunderbird Calendar are left to the reader… 
